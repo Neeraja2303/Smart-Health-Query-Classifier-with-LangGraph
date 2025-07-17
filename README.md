@@ -1,7 +1,7 @@
 It processes free-form symptom queries from users, intelligently classifies them into one of three key categories:
 
--General Health
--Emergency Cases
+- General Health
+- Emergency Cases
 - Mental Health Support
 
 Based on the classification, it dynamically routes the query through an appropriate Gemini-powered agent, providing context-aware and category-specific responses.
